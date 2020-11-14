@@ -34,6 +34,6 @@ export default {
     flex: 1;
   }
   .recommenditem img{
-    width: 90%;
+    width: 80%;
   }
 </style>
